@@ -1,0 +1,7 @@
+QMAKE_DEFAULT_INCDIRS = \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\VC98\\atl\\include" \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\VC98\\mfc\\include" \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\VC98\\include"
+QMAKE_DEFAULT_LIBDIRS = \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\VC98\\mfc\\lib" \
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\VC98\\lib"
