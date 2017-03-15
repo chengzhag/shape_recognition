@@ -13,7 +13,6 @@
 - 熟悉了matlab的使用
 
 ## 演示程序
-
 - 打开\shape_recognition\build\shape_recognition.exe
-- \shape_recognition\build\im中有示例图片供测试
 - 在图像浏览窗口按esc可关闭窗口
+- \shape_recognition\build\im中有示例图片供测试
